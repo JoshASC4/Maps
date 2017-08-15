@@ -1,0 +1,15 @@
+body{
+    color: black;
+
+}
+.navbar-brand{
+    font-Size: 40px;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+a{
+    color: goldenrod;
+}
+#success_message{ display: none;}
