@@ -1,0 +1,33 @@
+/*!
+ * Start Bootstrap - Full (http://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+body{
+    color: black;
+
+}
+.navbar-brand{
+    font-Size: 40px;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+a{
+    color: goldenrod;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+hr{
+    clear: both;
+    visibility: hidden;
+}
